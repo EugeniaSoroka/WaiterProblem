@@ -29,16 +29,16 @@ Each line contains a pair of x and y coordinates of a point, separated by "," - 
 
 ### Prerequisites
 1. wx
-
-To intall wx, run:
-```
-pip install wxPython
-```
 2. matplotlib
 3. numpy
 4. random
 5. math
 6. scipy
+
+To intall wx, run:
+```
+pip install wxPython
+```
 
 For 2-6, run command:
 ```
