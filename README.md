@@ -11,9 +11,9 @@ Let S = {P1, ... , Pn} be a set of n points in the plane. Let C(X) denote the ce
 ### Running Instructions
 (checked for Ubuntu 16.04 and Windows 10)
 To run the program, first make sure that you have Python 2.7+ installed on your system, as well as all the packages listed in Prerequisites (below). Then simply run the command:
-'''
+```
 python waiter.py
-'''
+```
 There are three input options:
 1. Random input
 2. Import a file
@@ -25,18 +25,18 @@ Each line contains a pair of x and y coordinates of a point, separated by "," - 
 ### Prerequisites
 1. wx
 To intall wx, run:
-'''
+```
 pip install wxPython
-'''
+```
 2. matplotlib
 3. numpy
 4. random
 5. math
 6. scipy
 For 2-6, run command:
-'''
+```
 pip install package-name
-'''
+```
 having replaced package-name with the corresponding package name (e.g. matplotlib) to install it.
 
 
