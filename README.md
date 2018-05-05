@@ -49,8 +49,6 @@ having replaced package-name with the corresponding package name (e.g. matplotli
 
 
 ### Copyright and attribution
-Created by Eugenia Soroka\n
-Ph.D. Student
-Stony Brook University, NY
-CSE555 / AMS545 (Computational Geometry)
+Created by Eugenia Soroka (Ph.D. Student, Stony Brook University, NY)
+Course: CSE555 / AMS545 (Computational Geometry)
 Spring 2018
