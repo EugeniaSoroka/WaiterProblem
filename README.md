@@ -49,7 +49,7 @@ having replaced package-name with the corresponding package name (e.g. matplotli
 
 
 ### Copyright and attribution
-Created by Eugenia Soroka
+Created by Eugenia Soroka\n
 Ph.D. Student
 Stony Brook University, NY
 CSE555 / AMS545 (Computational Geometry)
